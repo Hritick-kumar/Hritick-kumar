@@ -1,9 +1,4 @@
 ## Hi there 👋
-
-<!--
-**Hritick-kumar/Hritick-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 🔭 I’m currently working on a comprehensive sales data analysis project as part of my B.Tech CSE coursework, consolidating data from multiple sources to gain insights into sales performance.
 
 🌱 I’m currently learning advanced data analysis techniques and tools, including data preprocessing with pandas, data visualization with Matplotlib and Seaborn, and integrating large datasets for insightful analysis.
